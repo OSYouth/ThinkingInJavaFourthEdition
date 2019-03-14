@@ -2,6 +2,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - C3E5",
+            "request": "launch",
+            "mainClass": "Chapter3.C3E5",
+            "projectName": "ThinkingInJavaFourthEdition_39e03e33"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C2E2",
+            "request": "launch",
+            "mainClass": "Chapter2.C2E2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - C2E1",
             "request": "launch",
             "mainClass": "Chapter2.C2E1"
